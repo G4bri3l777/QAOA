@@ -63,6 +63,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - **IBM Quantum:** For the Qiskit Runtime Service and SamplerV2.
-- ** Dr. Ilya Safro for his guidance, discussion and mentoring.
+- **Dr. Ilya Safro, ECE & CS from University of Delaware** for his guidance, discussion and mentoring.
 
 
