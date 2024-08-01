@@ -23,3 +23,45 @@ To get started with this project, you need to have the following Python librarie
 ```bash
 pip install numpy networkx qiskit==1.1 qiskit_ibm_runtime scipy matplotlib
 
+## Usage
+
+To use this project, follow these steps:
+
+1. **Initialize Quantum Circuit:**
+   Create and configure the quantum circuit for the QAOA algorithm.
+
+2. **Define Graph:**
+   Utilize NetworkX to create and manipulate the graph for the 3-coloring problem.
+
+3. **Run QAOA:**
+   Apply the QAOA algorithm to solve the 3-coloring problem.
+
+4. **Visualize Results:**
+   Use Matplotlib to visualize the results and performance of the QAOA algorithm.
+
+## Contributing
+
+We welcome contributions to this project. If you would like to contribute, please follow these guidelines:
+
+1. **Fork the Repository:** Create a personal copy of the repository by forking it on GitHub.
+
+2. **Create a Branch:** Make a new branch for your changes. Use a descriptive name for the branch that reflects the changes you are making.
+
+3. **Make Changes:** Implement your changes or additions.
+
+4. **Write Tests:** If applicable, write tests for your changes.
+
+5. **Submit a Pull Request:** Push your changes to your forked repository and submit a pull request to the main repository. Describe your changes and reference any related issues.
+
+6. **Review:** The pull request will be reviewed, and feedback may be provided. You may need to make additional changes based on the review.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- **IBM Quantum:** For the Qiskit Runtime Service and SamplerV2.
+- ** Dr. Ilya Safro for his guidance, discussion and mentoring.
+
+
