@@ -22,6 +22,7 @@ To get started with this project, you need to have the following Python librarie
 
 ```bash
 pip install numpy networkx qiskit==1.1 qiskit_ibm_runtime scipy matplotlib
+```
 
 ## Usage
 
